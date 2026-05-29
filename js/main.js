@@ -69,10 +69,9 @@ document.addEventListener('DOMContentLoaded', () => {
      HERO — typewriter
   ----------------------------------------------- */
   const titles = [
-    'IT Student & Developer',
+    'IT Graduate & Developer',
     'Web Developer & Automator',
     'AI-Integrated Engineer',
-    'Problem Solver & Builder',
   ];
 
   const typedEl = document.getElementById('typed-title');
